@@ -8,11 +8,11 @@
   "dependencies": {
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
-    "express": "~4.16.1",
+    "express": "^4.16.4",
     "morgan": "~1.9.1",
-    "react-router-dom": "latest",
-    "react-scripts": "2.0.0",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "react-router-dom": "latest",
+    "react-scripts": "2.0.0"
   }
 }
